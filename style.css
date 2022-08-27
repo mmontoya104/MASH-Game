@@ -30,12 +30,12 @@ h1 {
 /* Submit Button, Columns, Questions, and Inputs */
 .button-submit {
   background: transparent;
-  border: 3px solid #dbdada;
+  border: 6px solid #dbdada;
   border-radius: 6px;
   color: #000000;
   cursor: pointer; 
   display: block;
-  font-size: 20px;
+  font-size: 28px;
   font-weight: bold;  
   margin: 0 auto 60px;
   padding: 1em 2em; 
@@ -57,7 +57,7 @@ h1 {
 }
 
 .choice-bucket label {
-  font-size: 12px;
+  font-size: 16px;
   line-height: 13px;
   margin: 15px 4%;
 }
@@ -66,7 +66,7 @@ h1 {
   border: 0;
   border-radius: 6px;
   color: #000000;
-  font-size: 18px;
+  font-size: 22px;
   margin: 15px 4%;
   outline: 0;
   padding: 16px 0;
